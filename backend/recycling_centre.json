@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Green Planet Recyclers",
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "accepted_waste": ["plastic", "metal", "paper"]
+  },
+  {
+    "name": "EcoWaste Hub",
+    "latitude": 12.9352,
+    "longitude": 77.6144,
+    "accepted_waste": ["organic", "glass"]
+  },
+  {
+    "name": "Safe E-Waste Disposal",
+    "latitude": 12.9881,
+    "longitude": 77.6038,
+    "accepted_waste": ["e-waste", "plastic"]
+  },
+  {
+    "name": "ReGreen Paper Mills",
+    "latitude": 13.0056,
+    "longitude": 77.5705,
+    "accepted_waste": ["paper"]
+  },
+  {
+    "name": "Urban Green Bin",
+    "latitude": 12.9608,
+    "longitude": 77.5840,
+    "accepted_waste": ["organic", "metal", "glass"]
+  }
+]
